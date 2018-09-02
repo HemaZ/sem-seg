@@ -47,13 +47,11 @@ Make sure you have the following is installed:
 
 - [SciPy](https://www.scipy.org/)
 
-  ##### Dataset
+  
 
-  Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip). Extract the dataset in the `data` folder. This will create the folder `data_road` with all the training a test images.
+  ### Samples
 
-### Samples
-
-Below are a few sample images from the output , with the segmentation class overlaid upon the original image in violet.
+  Below are a few sample images from the output , with the segmentation class overlaid upon the original image in violet.
 
 ![um_000019](samples/um_000019.png)
 
