@@ -37,6 +37,8 @@ After the 60 epochs the model reached 1.4 as epoch loss.
 
 ##### Frameworks and Packages
 
+helper.py and the Pre-Trained VGG model is provided by Udacity. Please check their github  Repository from [here](https://github.com/udacity/CarND-Semantic-Segmentation) 
+
 Make sure you have the following is installed:
 
 - [Python 3](https://www.python.org/)
@@ -74,5 +76,7 @@ Make sure you have the following is installed:
 ![umm_000052](samples/umm_000052.png)
 
 ![uu_000065](samples/uu_000065.png)
+
+
 
 
